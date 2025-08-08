@@ -1,4 +1,4 @@
-[Readme.txt](https://github.com/user-attachments/files/21691364/Readme.txt)
+
 Ich habe hier einen kleinen Keyer für das Vband geschrieben. Er basiert 
 auf einem Wavehare PiPico. Es werden nur sehr wenige weitere Bautaeile 
 benötigt. Eine normale Squezzetaste kann benutzt werden. Wer will darf 
@@ -7,6 +7,6 @@ YL oder OM eine solce Taste benutzen muss er beim Einstecken des Moduls
 die Taste drücken.
 
 Als weiteres PLUS simuliert die Taste bei einer "Nichtbenutzung" von drei
-Minuten eine Tastendruck. Soll geht der PC nicht in den Modus zum Bild-
+Minuten einen Tastendruck. So geht der PC nicht in den Modus zum Bild-
 schirmschonen. (Mausbeweger). Ist vieleicht manchmal im Homeoffice 
-nützlich
+nützlich.
